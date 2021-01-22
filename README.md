@@ -1,20 +1,14 @@
-## 프로젝트를 위한 초기세팅
+## 수파자 코딩 과제
+회원가입, 로그인 페이지 제작
 
-React로 제작하는 프로젝트를 위한 초기 세팅.
-
-라이브러리 설치 및 eslint 세팅 완료.
-
-### 설치된 라이브러리
+### 사용한 기술스택
+- react Hooks
 - axios
-- cra-template
-- react
-- react-dom
-- react-redux
-- react-router-dom
-- react-scripts
-- redux
-- redux-saga
-- redux-thunk
 - styled-components
+- react-hook-form
+- material-ui
 
-### Git clone 후 npm install 필수
+### 구현한 기능
+- axios를 활용한 api 통신
+- 회원가입, 로그인 페이지의 유효성 검사
+- react-hook-form 이용한 상태관리
